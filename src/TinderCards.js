@@ -3,7 +3,7 @@ import './TinderCards.css';
 import TinderCard from 'react-tinder-card';
 
 function TinderCards() {
-    const [people, setPeople] = useState([{
+    const [people] = useState([{
         name: 'Pepple',
         url: 'https://pbs.twimg.com/media/Eaz2PMGWsAYamv4?format=jpg&name=medium'
     },
@@ -28,7 +28,7 @@ function TinderCards() {
 
     ]);
 
-const swiped = (direction, nameToDelete) => {
+const swiped = (nameToDelete) => {
     console.log('removing:' + nameToDelete);
    // setLastDirection(direction);
 };
