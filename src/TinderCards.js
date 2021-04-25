@@ -3,7 +3,10 @@ import './TinderCards.css';
 import TinderCard from 'react-tinder-card';
 
 function TinderCards() {
-    const [people] = useState([
+    const [people] = useState([{
+        name: 'Pepple',
+        url: 'https://pbs.twimg.com/media/Eaz2PMGWsAYamv4?format=jpg&name=medium'
+    },
     {
         name: 'Peps',
         url: "https://pbs.twimg.com/media/EIyiGvCXUAA4abD?format=jpg&name=small"
