@@ -15,10 +15,12 @@ function TinderCards() {
         name: 'William',
         url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
     },
+
     // {
     //     name: 'Fresh Guy',
     //     url: "https://pbs.twimg.com/media/EFvlnNJXkAY9CJg?format=jpg&name=900x900"
     // },
+
     {
         name: 'Guy',
         url: "https://scontent-los2-1.xx.fbcdn.net/v/t31.0-8/12045221_914785051929595_2810651009422270765_o.jpg?_nc_cat=111&ccb=2&_nc_sid=e3f864&_nc_eui2=AeHkOkH0AttMSEujcLFEF9VWhgnko-DG6guGCeSj4MbqCyJvM3KDFJrS03p8Tw4Pg8cytxpl4KZP1L_pGHCFk-wS&_nc_ohc=WStDmwUuaigAX8r4Q60&_nc_ht=scontent-los2-1.xx&oh=9148238b245f3429abd413b89305217a&oe=5FD9570C"
