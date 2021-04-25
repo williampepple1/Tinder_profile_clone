@@ -5,16 +5,16 @@ import TinderCard from 'react-tinder-card';
 function TinderCards() {
     const [people] = useState([{
         name: 'Pepple',
-        url: 'https://pbs.twimg.com/media/Eaz2PMGWsAYamv4?format=jpg&name=medium'
+        url: "https://pbs.twimg.com/media/Eaz2PMGWsAYamv4?format=jpg&name=medium"
     },
     {
         name: 'Peps',
         url: "https://pbs.twimg.com/media/EIyiGvCXUAA4abD?format=jpg&name=small"
     },
-    // {
-    //     name: 'William',
-    //     url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
-    // },
+    {
+        name: 'William',
+        url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
+    },
 
     {
         name: 'Fresh Guy',
