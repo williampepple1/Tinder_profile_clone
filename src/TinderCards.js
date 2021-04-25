@@ -16,10 +16,10 @@ function TinderCards() {
         url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
     },
 
-    // {
-    //     name: 'Fresh Guy',
-    //     url: "https://pbs.twimg.com/media/EFvlnNJXkAY9CJg?format=jpg&name=900x900"
-    // },
+    {
+        name: 'Fresh Guy',
+        url: "https://pbs.twimg.com/media/EFvlnNJXkAY9CJg?format=jpg&name=900x900"
+    },
 
     {
         name: 'Guy',
