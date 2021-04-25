@@ -7,10 +7,10 @@ function TinderCards() {
         name: 'Pepple',
         url: 'https://pbs.twimg.com/media/Eaz2PMGWsAYamv4?format=jpg&name=medium'
     },
-    {
-        name: 'Peps',
-        url: "https://pbs.twimg.com/media/EIyiGvCXUAA4abD?format=jpg&name=small"
-    },
+    // {
+    //     name: 'Peps',
+    //     url: "https://pbs.twimg.com/media/EIyiGvCXUAA4abD?format=jpg&name=small"
+    // },
     {
         name: 'William',
         url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
