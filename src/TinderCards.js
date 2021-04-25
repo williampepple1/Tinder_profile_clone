@@ -11,15 +11,15 @@ function TinderCards() {
         name: 'Peps',
         url: "https://pbs.twimg.com/media/EIyiGvCXUAA4abD?format=jpg&name=small"
     },
-    {
-        name: 'William',
-        url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
-    },
-
     // {
-    //     name: 'Fresh Guy',
-    //     url: "https://pbs.twimg.com/media/EFvlnNJXkAY9CJg?format=jpg&name=900x900"
+    //     name: 'William',
+    //     url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
     // },
+
+    {
+        name: 'Fresh Guy',
+        url: "https://pbs.twimg.com/media/EFvlnNJXkAY9CJg?format=jpg&name=900x900"
+    },
 
     {
         name: 'Guy',
