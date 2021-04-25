@@ -12,7 +12,7 @@ function TinderCards() {
         url: "https://pbs.twimg.com/media/EIyiGvCXUAA4abD?format=jpg&name=small"
     },
     {
-        name: 'William',
+        name: 'William Pep',
         url: "https://pbs.twimg.com/media/EIyiGu-W4AEnpnj?format=jpg&name=medium"
     },
 
